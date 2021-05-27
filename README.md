@@ -9,10 +9,10 @@ Library dependencies should auto fill but if they do not:
 4. Click Finish.
 5. Open the Project settings, add SwiftUI.framework to the Linked Frameworks and Libraries, set Status to Optional.
 
-## Utilities
-
-SwiftUI, SwiftUIX
-
 ## Functionality
 
 This repository contains a few of my demo projects in SwiftUI including: a Clubhouse Clone, a mock onboarding flow, and more to come.
+
+## Utilities
+
+SwiftUI, SwiftUIX
